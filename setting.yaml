@@ -1,0 +1,9 @@
+alltimings:
+    starttime: ['10:00', '09:00', '11:00', '14:40', '14:55']  #Your Timetable according to which you want the bot to enter the class. Timings should correspond with Google classroom layout
+    endtime: ['09:40', '10:40', '11:40', '14:45', '15:00'] #Time your class ends/ Time you want the bot to exit the class for you. 24H time FORMAT- ['time1', 'time2'] 
+    range: 5 #Number of timings you have entered above above. eg. 5
+
+google meets:
+    link: [] #If your meeting is conducted on Google Meets, enter the same number of links as you specified in range.
+    code: [] #enter the same number of codes as specified in range.
+    
